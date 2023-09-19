@@ -36,5 +36,15 @@
       "worth": "50$",
       "postId": 1
     }
+    {
+      "id": 2,
+      "worth": "25$",
+      "postId": 2
+    }
+    {
+      "id": 3,
+      "worth": "75$",
+      "postId": 3
+    }
   ]
 }
