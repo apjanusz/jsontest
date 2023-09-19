@@ -28,4 +28,11 @@
   "profile": {
     "name": "typicode"
   }
+  "price": [
+    {
+      "id": 1,
+      "worth": "50$",
+      "postId": 1
+    }
+  ],
 }
