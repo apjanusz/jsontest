@@ -13,21 +13,6 @@
       "title": "Post 3"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "price": [
     {
       "id": 1,
@@ -37,12 +22,12 @@
     {
       "id": 2,
       "worth": "25$",
-      "postId": 2
+      "postId": 1
     },
     {
       "id": 3,
       "worth": "75$",
-      "postId": 3
+      "postId": 1
     }
   ]
 }
